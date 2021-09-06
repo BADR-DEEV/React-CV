@@ -1,0 +1,73 @@
+
+
+#About{
+    display: flex;
+    text-align: center;
+    justify-content: center; 
+  
+    height: 100vh;
+    width: 100%;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    /* padding-top: 30%; */
+    word-wrap:break-word;
+    background-image: linear-gradient(90deg, rgb(77, 47, 47) , rgb(44, 31, 31));
+    border-bottom: 1px solid black;
+    border-top: 0.5px solid black;
+    box-shadow: 4px 4px 4px black;
+    
+    
+    
+}
+
+#About h1{
+    max-width:250px;
+    color: white;
+    text-shadow: 4px 4px #000000;
+
+    background-image: linear-gradient(90deg, rgb(122, 67, 67) , rgb(248, 186, 186));
+    background-size:0% 2px;
+    background-repeat: no-repeat;
+    background-position:left bottom;
+    transition: background-size 300ms ease;
+   
+  
+}
+
+
+#About h1:hover{
+    background-size: 100% 2px;
+
+
+}
+
+
+
+#About p {
+    font-size: 17px;
+    max-width:340px;
+ 
+    /* max-width:200px; */
+    color: white;
+    text-shadow: 2px 2px #000000;
+    letter-spacing: 1px;
+    font-size: 20px;
+    
+   
+
+}
+
+
+.Badr{
+    border-radius: 50%;
+    width: 210px;
+    height: 210px;
+    box-shadow: 4px 4px 4px black;
+    position: relative;
+    left:3px
+    
+
+
+}
+
