@@ -42,5 +42,8 @@
   "main": "index.js",
   "author": "Badr Shehim",
   "license": "ISC",
-  "repository": "https://github.com/BADR-DEEV/React-CV.git"
+  "repository": "https://github.com/BADR-DEEV/React-CV.git",
+  "optionalDependencies": {
+    "fsevents": "^2.3.2"
+  }
 }
