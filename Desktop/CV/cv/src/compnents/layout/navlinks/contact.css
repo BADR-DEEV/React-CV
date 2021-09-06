@@ -1,0 +1,148 @@
+.footer {
+    position: relative;
+    bottom: 0;
+
+    height:150px;
+    width: 100%;
+    background-image: linear-gradient(90deg, rgb(51, 25, 25) , rgb(27, 13, 13));
+   display: flex;
+   justify-content: center;
+   text-align: center;
+   align-items: center;
+   
+   
+   
+}
+
+#contact {
+    display: flex;
+    text-align: center;
+    justify-content: center; 
+  
+    height: 80vh;
+    width: 100%;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    /* padding-top: 30%; */
+  
+    background-image: linear-gradient(90deg, rgb(68, 37, 37) , rgb(41, 22, 22));
+    
+   color:white;
+   word-wrap: break-word;
+   
+
+}
+
+.footer a{
+    /* flex-direction: column; */
+    flex-basis: 20%;
+  
+    color:white;
+
+    background-image: linear-gradient(90deg, rgb(124, 80, 80) , rgb(80, 44, 44));
+    background-size:0% 1000px;
+    background-repeat: no-repeat;
+    /* background-position:left bottom; */
+    transition: background-size 200ms ;
+   
+    
+    
+}
+
+.footer a:hover{
+    background-size: 100% 100px;
+
+
+}
+
+
+#contact p {
+    font-size: 20px;
+    font-weight: 300;
+    text-shadow: 1px 4px 10px black;
+    letter-spacing: 1px;
+    width: 450px;
+  
+   
+}
+
+#contact h1{
+    text-shadow: 1px 4px 5px black;
+}
+
+
+span{
+    float :left;
+    margin-left:50px;
+    margin-right:50px;
+    position: relative;
+    bottom: -8px;
+    
+
+}
+
+img{
+    float :left;
+    position: relative;
+    bottom:8px;
+    
+    right:8px;
+  
+}
+
+
+#F{
+background-color: white;
+/* border-radius: 40%; */
+bottom:7px;
+right:8px;
+width: 32px;
+height: 32px;
+}
+
+
+#G{
+  
+    height: 32px;
+    width: 32px;
+    position: relative;
+    bottom:5px;
+    right:8px
+}
+
+.ga{
+    position: relative;
+  
+}
+
+
+#phone{
+    float: left;
+    position: relative;
+    top:14px;
+    right:2px;
+    
+  
+}
+
+
+@media screen and (max-width:544px){
+
+.footer span{
+    display: flex;
+
+    justify-content: center;
+  
+    
+}
+
+img{
+
+    flex-basis: 20%;
+
+}
+
+    
+
+}
