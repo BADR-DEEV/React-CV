@@ -69,6 +69,7 @@ li{
     height: 70px;
     background-image: linear-gradient(90deg, rgb(126, 66, 66) , rgb(53, 21, 21));
     position: fixed;
+  
     
 }
 
@@ -82,12 +83,37 @@ li{
     /* height: 100px; */
     margin-left: auto;
     margin-right: auto;
+    /* padding:10px; */
+    
     /* padding-top: 10px; */
-    padding-right: 50px;
+    
+    
+
+
+}
+@media screen and (max-width: 1020.5px) {
+
+    
+li{
+
+    
+    font-size: 25px;
+       
+    display: inline; /* the default for span */
+    width: 100px;
+    /* height: 100px; */
+    margin-left: auto;
+    margin-right: auto;
+    padding:20px;
+    
+    /* padding-top: 10px; */
+    
+    
 
 
 }
 
+}
 
     
   }
@@ -109,19 +135,60 @@ li{
         padding-right: 25px;
         position: relative;
         top:8px;
+        right: 7px;
     
     
       
   }
 
   
-a:hover{
+
+
+
+
+
+}
+
+@media screen and (max-width:768px){
+
+    a:hover{
         color:rgb(236, 144, 144);
         background-size:0px;
+        
+    }
+    .nav{
+        width: 100%;
+        height: 70px;
+        background-image: linear-gradient(90deg, rgb(126, 66, 66) , rgb(53, 21, 21));
+        position: fixed;
+      
+        
+    }
+    
+    li{
+    
+        
+        font-size: 22px;
+           
+        display: inline; /* the default for span */
+        width: 100px;
+        /* height: 100px; */
+        margin-left: auto;
+        margin-right: auto;
+        padding:10px;
+        position: relative;
+        right: 17px;
+        top: 8px;
+        
+        /* padding-top: 10px; */
+        
+        
+    
+    
     }
 
-
-
+  
+    
 
 
 }

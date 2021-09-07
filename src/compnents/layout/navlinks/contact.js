@@ -14,7 +14,7 @@ const Footer = ()=> {
        <span id = "contacts"><img id = "phone" src = {Phone} alt = "#"/><p>Phone Number [Almadar] : 091 012 46 49</p></span>
        <br/>
        <br/>
-       <span id = "contacts"><img id = "phone" src = {Phone} alt = "#"/><p>Phone Mumber [Libyana] : 092 732 97 87</p></span>
+       <span id = "contacts"><img id = "phone" src = {Phone} alt = "#"/><p>Phone Number [Libyana] : 092 732 97 87</p></span>
  
 
 </div>

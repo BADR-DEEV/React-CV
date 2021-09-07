@@ -222,5 +222,17 @@ height: 32px;
     .footer a:hover{
         color:rgb(236, 144, 144);
     }
+
+    #contacts {
+        font-size: 20px;
+        font-weight: 300;
+        text-shadow: 1px 4px 10px black;
+        letter-spacing: 1px;
+        width: 280px;
+        position: relative;
+        left:5px;
+      
+       
+    }
     
 }
