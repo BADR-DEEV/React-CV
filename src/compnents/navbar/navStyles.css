@@ -84,6 +84,8 @@ li{
     margin-left: auto;
     margin-right: auto;
     /* padding:10px; */
+    position: relative;
+  left: -17px;
     
     /* padding-top: 10px; */
     
