@@ -177,7 +177,7 @@ box-shadow: 0 0px 200px rgb(245, 156, 156);
    width: 10%;
    
    color: #e6b0b0;
-/* margin: 80px auto; */
+margin: 80px auto;
 /* box-shadow: 0 0px 200px rgb(245, 156, 156); */
 
 
@@ -240,14 +240,14 @@ box-shadow: 0 0px 200px rgb(245, 156, 156);
  
   position: relative;
   top:110px;
-  font-size: 17px;
+
   max-width:300px;
 
   /* max-width:200px; */
   color: white;
  text-align: center;
   letter-spacing: 1px;
-  font-size: 20px;
+  font-size: 25px;
   margin-bottom:200px ;
  
  
@@ -277,8 +277,8 @@ box-shadow: 0 0px 200px rgb(245, 156, 156);
     position: relative;
     
     /* top:0px; */
-    height: 250px;
-    width: 250px;
+    height: 280px;
+    width: 280px;
     border-radius: 15%;
     box-shadow: 4px 4px 20px black;
     /* display: flex;
@@ -301,14 +301,14 @@ font-size: 25px;
     position: relative;
     top:50px;
 
-    font-size: 17px;
+ 
     max-width:300px;
   
     /* max-width:200px; */
     color: white;
    text-align: center;
     letter-spacing: 1px;
-    font-size: 20px;
+    font-size: 23px;
 
   }
 

@@ -35,6 +35,9 @@ html{
         width: 0px; 
         
     }
+    body{
+        overflow: hidden;
+    }
     
     
 }
