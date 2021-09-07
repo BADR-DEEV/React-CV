@@ -71,3 +71,13 @@
 
 }
 
+
+@media screen and (max-width:760px) {
+    #About h1:hover{
+        background-size: 0px;
+    
+    
+    }
+    
+    
+}

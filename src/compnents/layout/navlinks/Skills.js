@@ -214,9 +214,7 @@ const Skills = ()=> {
 
 
 
-<hr className = "hr">
-
-</hr>
+<hr className = "hr"></hr>
 {/* <h1 className = "title">Work Experience and Certifications</h1> */}
 
 
@@ -224,9 +222,7 @@ const Skills = ()=> {
 <img src = {Amad} alt = "#"  className = "Mommken"></img>
 <p className  = "text-image">I have taken a course at Amadeus Reservations System </p>
 
-<hr className = "hr1">
-
-</hr>
+<hr className = "hr"></hr>
  
 
 

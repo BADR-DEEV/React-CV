@@ -98,7 +98,7 @@ li{
     li{
 
     
-        font-size: 25px;
+        font-size: 20px;
        
         display: inline; /* the default for span */
         width: 100px;
@@ -106,9 +106,22 @@ li{
         margin-left: auto;
         margin-right: auto;
         /* padding-top: 10px; */
-        padding-right: 45px;
+        padding-right: 25px;
+        position: relative;
+        top:8px;
     
     
       
   }
+
+  
+a:hover{
+        color:rgb(236, 144, 144);
+        background-size:0px;
+    }
+
+
+
+
+
 }
