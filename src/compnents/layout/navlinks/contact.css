@@ -154,6 +154,9 @@ height: 32px;
 
 .footer img{
     flex-basis: 20%;
+    position: relative;
+    bottom:40px;
+    left:49.6%
 }
 
 .contacts{
@@ -168,7 +171,8 @@ height: 32px;
     
     position: relative;
     bottom: -8px;
-    left: 7px;
+  right: 15px;
+   
     
 
 }
@@ -199,6 +203,9 @@ height: 32px;
     width: 32px;
     height: 32px;
     border-radius: 10%;
+    position: relative;
+        bottom:40px;
+        left:46px
     }
 
     #G{
@@ -206,8 +213,8 @@ height: 32px;
         height: 32px;
         width: 32px;
         position: relative;
-        bottom:8px;
-        right:8px
+        bottom:40px;
+        left:35px
     }
 
 }
